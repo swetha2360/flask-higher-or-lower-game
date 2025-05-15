@@ -12,12 +12,11 @@ A fun and simple number guessing game built with **Python** and **Flask**! The a
 
 ## 📷 Screenshots
 
-- Guess too high:
-  ![Too high GIF](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
+### 🔼 Guess too high  
+![Too high GIF](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
 
-- Guess too low:  
-  ![Too low GIF](https://media.giphy.com/media/jD4DwBtqPXRXa/giphy.gif)
+### 🔽 Guess too low  
+![Too low GIF](https://media.giphy.com/media/jD4DwBtqPXRXa/giphy.gif)
 
-
-- Correct guess:
-  ![You found me GIF](https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif)
+### ✅ Correct guess  
+![Correct guess GIF](https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif)
