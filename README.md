@@ -16,7 +16,7 @@ A fun and simple number guessing game built with **Python** and **Flask**! The a
 ![Too high GIF](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
 
 ### 🔽 Guess too low  
-![Too low GIF](https://media.giphy.com/media/jD4DwBtqPXRXa/giphy.gif)
+![Too low GIF](https://media.tenor.com/ZD1KoP06t7UAAAAM/dog-sand.gif)
 
 ### ✅ Correct guess  
 ![Correct guess GIF](https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif)
